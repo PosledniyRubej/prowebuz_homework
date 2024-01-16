@@ -6,5 +6,5 @@
 <a href="./app-release.apk"><img src="https://playerzon.com/asset/download.png" width="200"></img></a>
 # 🎥 Демо
 
-![demo](./DemoApp.gif)
+![demo](./Demo.gif)
 
