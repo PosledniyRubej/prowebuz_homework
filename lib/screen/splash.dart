@@ -34,7 +34,7 @@ class _SplashScreenState extends State<SplashScreen> {
             children: [
               Center(child: Lottie.asset('assets/splash.json')),
               Text(
-                'HomeWork',
+                '#HomeWork',
                 style: TextStyle(
                   fontSize: 28,
                   fontWeight: FontWeight.w400,
