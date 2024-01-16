@@ -1,4 +1,4 @@
-# 🍔😋 ProWeb - HomeWork [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+# 😋 ProWeb - HomeWork 
 
 
 Не забудьте поставить звездочку⭐ репозиторию, если вам нравится то, что вы видите😉.
